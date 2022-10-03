@@ -1,0 +1,3 @@
+all: hw2_vy
+     hw2_vy: hw2_vahini.c
+	     gcc hw2_vahini.c -o hw2_vy
